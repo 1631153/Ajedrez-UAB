@@ -1,4 +1,34 @@
-﻿  CurrentGame.cpp
+﻿  debug.cpp
+  image_png.cpp
+  keyboard.cpp
+  mouse.cpp
+  NFont.cpp
+  sound.cpp
+  sprites.cpp
+  stb_vorbis.cpp
+  video.cpp
+  Chessboard.cpp
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Chessboard.cpp(87,19): warning C4101: 'temp': variable local sin referencia
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Chessboard.cpp(826,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Chessboard.cpp(828,116): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Chessboard.cpp(828,75): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Chessboard.cpp(835,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Chessboard.cpp(837,116): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Chessboard.cpp(837,75): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Chessboard.cpp(844,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Chessboard.cpp(846,116): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Chessboard.cpp(846,75): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Chessboard.cpp(853,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Chessboard.cpp(855,116): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Chessboard.cpp(855,75): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Chessboard.cpp(862,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Chessboard.cpp(864,116): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Chessboard.cpp(864,75): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Chessboard.cpp(871,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Chessboard.cpp(873,116): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Chessboard.cpp(873,75): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  ChessPosition.cpp
+  CurrentGame.cpp
 C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(249,94): warning C4305: 'argumento': truncamiento de 'double' a 'float'
 C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(249,76): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
 C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(249,66): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
@@ -12,4 +42,36 @@ C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Current
 C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(351,104): warning C4305: 'argumento': truncamiento de 'double' a 'float'
 C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(351,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
 C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(351,66): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Piece.cpp
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(68,113): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(68,82): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(71,114): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(71,83): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(74,113): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(74,82): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(77,115): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(77,84): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(80,115): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(80,84): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(83,113): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(83,82): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(94,113): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(94,82): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(97,114): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(97,83): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(100,113): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(100,82): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(103,115): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(103,84): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(106,115): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(106,84): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(109,113): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\Piece.cpp(109,82): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  GraphicManager.cpp
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\GraphicManager.cpp(28,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\GraphicManager.cpp(28,31): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  main.cpp
+  Generando código...
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\ChessPosition.cpp(312): warning C4715: 'ChessPosition::ConversorCol': no todas las rutas de acceso de control devuelven un valor
+  SDL_FontCache.c
   MP_Practica.vcxproj -> C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\2. Platforms\0. Windows Desktop\Program\MP_Practica.exe
