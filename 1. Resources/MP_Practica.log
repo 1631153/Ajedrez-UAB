@@ -1,1 +1,15 @@
-﻿  MP_Practica.vcxproj -> C:\Users\jacot\Downloads\Segona entrega\Segona entrega\Segona entrega\2. Platforms\0. Windows Desktop\Program\MP_Practica.exe
+﻿  CurrentGame.cpp
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(249,94): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(249,76): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(249,66): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(250,103): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(250,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(250,66): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(303,107): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(303,89): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(303,70): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(348,166): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(351,104): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(351,85): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(351,66): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  MP_Practica.vcxproj -> C:\Users\jacot\Documents\GitHub\Ajedrez-UAB\2. Platforms\0. Windows Desktop\Program\MP_Practica.exe

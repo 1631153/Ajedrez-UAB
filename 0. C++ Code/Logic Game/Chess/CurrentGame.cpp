@@ -242,9 +242,9 @@ bool CurrentGame::updateAndRender(int mousePosX, int mousePosY, bool mouseStatus
             string colorin;
 
             if (color.getColor() == 1)
-                colorin = "Color: Negro";
-            else
                 colorin = "Color: Blanco";
+            else
+                colorin = "Color: Negro";
 
             GraphicManager::getInstance()->drawFont(FONT_RED_30, posTextX, posTextY, 0.8, msg);
             GraphicManager::getInstance()->drawFont(FONT_RED_30, posTextX, posTextY + 50, 0.8, colorin);
@@ -296,9 +296,9 @@ bool CurrentGame::updateAndRender(int mousePosX, int mousePosY, bool mouseStatus
             if (!i)
             {
                 if (color.getColor() == CPC_Black)
-                    colorin = "Color: Negro";
-                else
                     colorin = "Color: Blanco";
+                else
+                    colorin = "Color: Negro";
 
                 GraphicManager::getInstance()->drawFont(FONT_RED_30, posTextX, posTextY + 50, 0.8, colorin);
 
